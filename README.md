@@ -1,4 +1,4 @@
-![](src/icons/icon.svg) # Auto mute ![](https://img.shields.io/amo/v/auto-mute.svg)
+# ![](src/icons/icon.svg) Auto mute ![](https://img.shields.io/amo/v/auto-mute.svg)
 Auto mute of new tabs. Possibility to enable mute tabs in private and normal mode.
 
 ## Requirements
