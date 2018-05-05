@@ -1,0 +1,26 @@
+{
+  "applications": {
+    "gecko": {
+      "id": "autoMute@waldemar.b",
+      "strict_min_version": "45.0a1"
+    }
+  },
+  "permissions": [
+		"tabs",
+		"storage"
+	],
+   "background": {
+      "scripts": [ "bg.js" ]
+   },
+   "options_ui": {
+      "page": "options.html"
+   },
+   "description": "__MSG_extensionDescription__",
+   "manifest_version": 2,
+   "name": "__MSG_extensionName__",
+   "default_locale": "en",
+   "version": "1.0",
+	"icons": {
+      "48": "icons/icon.svg"
+   }
+}

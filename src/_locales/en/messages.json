@@ -1,0 +1,20 @@
+{
+  "extensionName": {
+    "message": "Auto mute"
+  },
+  "extensionDescription": {
+    "message": "Auto mute of new tabs."
+  },
+  "options": {
+    "message": "Options"
+  },
+  "normal": {
+    "message": "Mute new tabs in the normal window"
+  },
+  "private": {
+    "message": "Mute new tabs in the private window"
+  },
+  "save": {
+    "message": "Save"
+  }
+}

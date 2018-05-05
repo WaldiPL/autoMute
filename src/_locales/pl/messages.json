@@ -1,0 +1,20 @@
+{
+  "extensionName": {
+    "message": "Auto wyciszanie"
+  },
+  "extensionDescription": {
+    "message": "Automatyczne wyciszanie nowych kart."
+  },
+  "options": {
+    "message": "Opcje"
+  },
+  "normal": {
+    "message": "Wyciszaj nowe karty w normalnym oknie"
+  },
+  "private": {
+    "message": "Wyciszaj nowe karty w prywatnym oknie"
+  },
+  "save": {
+    "message": "Zapisz"
+  }
+}
