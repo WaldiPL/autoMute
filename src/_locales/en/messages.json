@@ -13,8 +13,5 @@
   },
   "private": {
     "message": "Mute new tabs in the private window"
-  },
-  "save": {
-    "message": "Save"
   }
 }

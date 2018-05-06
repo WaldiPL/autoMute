@@ -1,6 +1,6 @@
 (function (){
 	browser.storage.local.get().then(result=>{
-		if(result.normalMode===undefined)browser.storage.local.set({normalMode:false,privateMode:true});
+		if(result.normalMode===undefined)browser.storage.local.set({normalMode:true,privateMode:true});
 	});
 	browser.tabs.onCreated.addListener(autoMute);
 })();
